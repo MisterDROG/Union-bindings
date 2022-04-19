@@ -12,4 +12,4 @@ This site is made as a project for a portfolio. The site is dedicated to the Uni
 
 For the future, there are plans to work with adaptability and add feedback forms.
 
-The site was developed by Igor Drogayitsev.
+The site was developed by Igor Drogaitsev.
