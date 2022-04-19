@@ -1,0 +1,7 @@
+.description__paragraph {
+    margin: 0 0 30px 0;
+  }
+  
+  .description__paragraph:last-child {
+    margin-bottom: 0;
+  }

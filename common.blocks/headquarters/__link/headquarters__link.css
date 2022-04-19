@@ -1,0 +1,12 @@
+.headquarters__link{
+    font-size: 36px;
+    line-height: 51px;
+    color: #fd6d22;
+    text-decoration: none;
+    position: absolute;
+    top: 50%;
+    right: 48px;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    border-radius: 20px;
+  }

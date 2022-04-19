@@ -1,0 +1,9 @@
+.headquarters {
+    height: 890px;
+    display: flex;
+    background: url(../../images/Union-HQ.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    position: relative;
+  }

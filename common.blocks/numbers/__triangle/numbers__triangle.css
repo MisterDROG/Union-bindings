@@ -1,0 +1,11 @@
+.numbers__triangle {
+    min-width: 877px;
+    min-height: 877px;
+    background-image: url(../../../images/triangle.svg);
+    background-repeat: no-repeat;
+    background-size: 877px 877px;
+    position: absolute;
+    right: -210px;
+    top: 0;
+    z-index: -1;
+  }

@@ -1,0 +1,9 @@
+.headquarters__subtitle{
+    font-size: 36px;
+    line-height: 51px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    border-radius: 20px;
+  }

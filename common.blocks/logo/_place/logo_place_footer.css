@@ -1,0 +1,9 @@
+.logo_place_footer {
+    background-image: url("../../../images/union-black-logo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    top: 0px;
+    left: 0px;
+    height: 62px;
+    width: 200px;
+  }

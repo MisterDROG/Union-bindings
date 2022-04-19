@@ -1,0 +1,13 @@
+@keyframes link-down {
+    form {
+      opacity: 1
+    }
+    to {
+      opacity: .4;
+    }
+  }
+
+.link-hover:hover {
+    animation: link-down .5s linear forwards;
+  }
+  
